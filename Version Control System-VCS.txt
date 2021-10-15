@@ -41,4 +41,6 @@ main.js             git add .               git commit -am ""
 *- git clone
 *- git push
 
-*- git ignore
+*- .gitignore
+
+*-git branch name
