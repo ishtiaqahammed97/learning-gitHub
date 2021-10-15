@@ -37,3 +37,8 @@ main.js             git add .               git commit -am ""
 -git show commitNumber* (it shows details about commit number)
 -git checkout versionNumber (to switch to that commit)
 -git switch - (get back to the previous commit)
+
+*- git clone
+*- git push
+
+*- git ignore
