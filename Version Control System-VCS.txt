@@ -46,3 +46,4 @@ main.js             git add .               git commit -am ""
 *-git branch comment(name) (create a new branch)
  -git checkout comment
  - git branch (show all the branches)
+ -git merge comment
