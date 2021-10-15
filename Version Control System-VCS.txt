@@ -1,0 +1,31 @@
+//A developer's friend
+// git and github
+=============================
+
+- Remote VCS server (gitHub)
+
+=============================
+Facebook (Demo)
+    - status management(branch)
+        - like
+        - react system
+        - notification management
+    - profile management
+    - Groups management
+    - Pages management
+
+-- git config
+command : git config --global user.email 'isah2080@ymail.com';
+      check command  : git config --list
+
+Working Dir         Staging area            commit(saved a version)
+===========         ==============          =======================
+index.htm
+'Massage'           git add fileName        git commit -m
+main.js             git add .
+
+
+*Some important command
+-git init
+-git status // check git status
+-git add (for example - git add index.html)
