@@ -43,4 +43,6 @@ main.js             git add .               git commit -am ""
 
 *- .gitignore
 
-*-git branch name
+*-git branch comment(name) (create a new branch)
+ -git checkout comment
+ - git branch (show all the branches)
