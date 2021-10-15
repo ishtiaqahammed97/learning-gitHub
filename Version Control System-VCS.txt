@@ -21,8 +21,8 @@ command : git config --global user.email 'isah2080@ymail.com';
 Working Dir         Staging area            commit(saved a version)
 ===========         ==============          =======================
 index.htm
-'Massage'           git add fileName        git commit -m
-main.js             git add .
+'Massage'           git add fileName        git commit -m ""
+main.js             git add .               git commit -am ""
 
 
 *Some important command
@@ -32,4 +32,8 @@ main.js             git add .
 -git add .
 -git commit -m ""
 -git log (it shows all the commit you made)
+-git log --oneline
 -git commit -am " "(this commits and also add at a time)
+-git show commitNumber* (it shows details about commit number)
+-git checkout versionNumber (to switch to that commit)
+-git switch - (get back to the previous commit)
