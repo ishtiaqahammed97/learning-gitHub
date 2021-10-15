@@ -29,3 +29,7 @@ main.js             git add .
 -git init
 -git status // check git status
 -git add (for example - git add index.html)
+-git add .
+-git commit -m ""
+-git log (it shows all the commit you made)
+-git commit -am " "(this commits and also add at a time)

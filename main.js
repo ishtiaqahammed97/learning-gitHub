@@ -1,1 +1,1 @@
-console.log('main connected');
+console.log('connected!');
