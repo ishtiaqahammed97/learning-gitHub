@@ -4,4 +4,4 @@ console.log('added comment branch');
 
 console.log('checking differences again');
 
-console.log('should be updated');
+console.log('should not be updated');
