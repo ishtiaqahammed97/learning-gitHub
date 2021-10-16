@@ -54,3 +54,5 @@ main.js             git add .               git commit -am ""
 commands-
 -git diff (show changes from working directory)
 -git diff --staged (show changes from staging directory)
+
+*- git undo/ revert 
