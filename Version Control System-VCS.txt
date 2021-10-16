@@ -1,6 +1,6 @@
 //A developer's friend
-// git and github
-=============================
+// git and github 1
+========================================================
 
 - Remote VCS server (gitHub)
 
@@ -37,13 +37,16 @@ main.js             git add .               git commit -am ""
 -git show commitNumber* (it shows details about commit number)
 -git checkout versionNumber (to switch to that commit)
 -git switch - (get back to the previous commit)
+-git pull (git fetch + git merge)
 
 *- git clone
 *- git push
-
+=================================================================
+/// git and gitHub-2-1
 *- .gitignore
 
 *-git branch comment(name) (create a new branch)
  -git checkout comment
  - git branch (show all the branches)
  -git merge comment
+ -we can merge remotely by pull request
