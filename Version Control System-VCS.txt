@@ -61,3 +61,12 @@ commands-
 *- Insert - i (press)
     Exiting unix editor
         ESC - : wq
+
+*-working with open source repositories
+    another person - Fork - own github profile - clone (modify)
+    - update to own github profile - pull request - owner github repo- review by open source project maintainer-
+    -merge the open source project 
+
+*-Markdown
+    -readme.md (create manually)
+    -markdown cheatsheet
