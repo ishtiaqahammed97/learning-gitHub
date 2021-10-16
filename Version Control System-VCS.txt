@@ -50,3 +50,7 @@ main.js             git add .               git commit -am ""
  - git branch (show all the branches)
  -git merge comment
  -we can merge remotely by pull request
+
+commands-
+-git diff (show changes from working directory)
+-git diff --staged (show changes from staging directory)
